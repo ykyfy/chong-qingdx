@@ -20,3 +20,11 @@ http://ipipip/rtp/235.254.199.170:7980
 http://ipipip/rtp/235.254.199.169:7980
 #EXTINF:-1 tvg-id="1" tvg-name="开州综合" tvg-logo="https://live.fanmingming.com/tv/开州综合.png" group-title="卫视高清",开州综合
 http://ipipip/rtp/235.254.199.203:7980
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="卫视高清",CHC家庭影院
+http://ipipip/rtp/235.254.199.246:7980
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="卫视高清",CHC高清电影
+http://ipipip/rtp/235.254.199.248:7980
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="卫视高清",CHC动作电影
+http://ipipip/rtp/235.254.199.247:7980
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="卫视频道",精彩影视
+http://ipipip/rtp/235.254.199.250:7980
