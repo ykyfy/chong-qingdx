@@ -28,3 +28,5 @@ http://ipipip/rtp/235.254.199.248:7980
 http://ipipip/rtp/235.254.199.247:7980
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="卫视频道",精彩影视
 http://ipipip/rtp/235.254.199.250:7980
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/梨园频道.png" group-title="央视高清",河南梨园
+http://ipipip/rtp/235.254.199.163:7980
